@@ -31,7 +31,7 @@ UART_Project/
 │   ├── receiver.do       # Simulation script for receiver
 │   ├── transmitter.do    # Simulation script for transmitter
 │   ├── uart_test_pins.tcl# Pin constraint file
-├── uart_test.vhd         # Integration and testing module
+├── uart_test.vhd         # Integration and testing module using a loopback
 └── README.md             # Project documentation
 ```
 
