@@ -52,7 +52,7 @@ UART_Project/
    - Use the `.do` files in the `scripts/` directory to automate testing in your simulator.
    - Example for ModelSim:
      ```bash
-     vsim -do receiver.do
+     do receiver.do
      ```
 3. **Synthesize and Deploy**:
    - Use your preferred FPGA toolchain (e.g., Vivado, Quartus) to synthesize the design.
