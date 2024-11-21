@@ -38,8 +38,8 @@ UART_Project/
 ---
 
 ## Requirements
-- **HDL Design Tools**: [e.g., ModelSim for simulation, Vivado/Quartus for synthesis]
-- **Hardware**: [e.g., Nexys A7 FPGA or similar development board]
+- **HDL Design Tools**: [ModelSim for simulation, Vivado/Quartus for synthesis]
+- **Hardware**: [FPGA or similar development board]
 
 ---
 
